@@ -3,7 +3,7 @@ Version:	54512
 Release:	2
 Summary:	Class for printing fiction, such as novels
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/novel
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/novel
 License:	lppl1.3c ofl
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/novel.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/novel.doc.r%{version}.tar.xz
